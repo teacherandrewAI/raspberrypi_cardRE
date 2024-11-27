@@ -1,0 +1,5 @@
+(tf-env) andrew@raspberrypi4:~/raspberrypi_cardRE $ python3 card_recognition.py 
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Presiona 'q' para salir.
+[ WARN:0@10.052] global cap_v4l.cpp:1136 tryIoctl VIDEOIO(V4L2:/dev/video0): select() timeout.
+Error: No se pudo capturar la imagen.
